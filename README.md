@@ -56,3 +56,7 @@ O aplicativo consegue de forma satisfatória atingir os objetivos propostos no i
 Observa-se que aplicação se trata de uma ferramenta que auxilia o planejamento urbano,  uma vez que o usuário é constantemente atualizado a respeito dos eventos e acontecimentos relacionados ao seu bairro. Através da interface, é esperado que os usuário tenha mais conforto e uma certa melhora na qualidade de vida.
 
 Seria apetecido que o aplicativo fosse utilizado por alguma Associação de Bairro, de preferência a Associação de Bairros do Cabral, a qual demandou tal projeto, para que de fato fosse posto em prática seu funcionamento e fosse retornado um feedback de sua utilização, para futuros aperfeiçoamentos.
+
+[Relatório Técnico](https://docs.google.com/document/d/1bGxnpIKmH_V6yP-qoges0P-GuA9-rtxe7gBQzxuvuso/edit?usp=sharing)
+
+última data de alteração: 21/03/2021
