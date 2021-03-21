@@ -25,3 +25,34 @@ The project consists of an app created to help the administration of neighborhoo
 3. Como etapa final, temos o desenvolvimento em si, focado na implementação das tecnologias.
 
 ### Desenvolvimento
+Para explicar o funcionamento do nosso aplicativo, o mais favorável é o diagrama de casos de uso:
+
+#### Casos de Uso
+Nosso aplicativo possui 2 atores, sendo eles: o administrador, responsável pela gerência e administração da associação de moradores e o membro/morador. Embora todo administrador seja um membro, no começo eles passam por um tipo de processo diferente para criar seu cadastrado em nosso aplicativo. Para que se cadastre um novo administrador, é necessário que crie-se, juntamente, uma associação. Então o administrador de uma associação é responsável pela criação da mesma em nosso aplicativo, como demonstra o diagrama abaixo:
+
+![Diagrama de Casos de uso do cadastro de um administrador e de um membro da associação de moradores](https://github.com/JordanAmaralVicente/SIGAAM/blob/main/docs/Casos%20de%20Uso%20_%20cadastro.png "Casos de Uso do Cadastro")
+
+O diagrama abaixo, demonstra quais funcionalidade do aplicativo um membro da associação, ou também um administrador, pode realizar:
+
+![Diagrama de Casos de uso do funcionamento geral do aplicativo](https://github.com/JordanAmaralVicente/SIGAAM/blob/main/docs/Casos%20de%20Uso%20_%20geral.png "Casos de Uso do Geral")
+
+Por fim, há funcionalidades que somente o administrador pode acessar, sendo essas funcionalidades muito importantes para a gestão do bairro. 
+
+![Diagrama de Casos de uso das funcionalidades disponíveis ao administrador da associação](https://github.com/JordanAmaralVicente/SIGAAM/blob/main/docs/Casos%20de%20Uso%20_%20admin.png "Casos de Uso do Administrador")
+
+Além desses, há também o [diagrama de classes](https://github.com/JordanAmaralVicente/SIGAAM/blob/main/docs/Diagrama%20de%20classes.pdf)
+
+### Resultado
+
+Como resultado, temos o aplicativo finalizado, 100% funcional. 
+As imagens das telas podem ser encontradas nesta [pasta de imagens](https://github.com/JordanAmaralVicente/SIGAAM/tree/main/docs/images)
+Em breve, o aplicativo também será publicado na [Play Store](#)
+
+
+### Conclusão
+
+O aplicativo consegue de forma satisfatória atingir os objetivos propostos no início deste documento. Com as funcionalidades implementadas, acredita-se que a forma com a qual as Associações Moradores interagem com seus moradores e dos próprios moradores entre si vão ser mais eficientes e versáteis.
+
+Observa-se que aplicação se trata de uma ferramenta que auxilia o planejamento urbano,  uma vez que o usuário é constantemente atualizado a respeito dos eventos e acontecimentos relacionados ao seu bairro. Através da interface, é esperado que os usuário tenha mais conforto e uma certa melhora na qualidade de vida.
+
+Seria apetecido que o aplicativo fosse utilizado por alguma Associação de Bairro, de preferência a Associação de Bairros do Cabral, a qual demandou tal projeto, para que de fato fosse posto em prática seu funcionamento e fosse retornado um feedback de sua utilização, para futuros aperfeiçoamentos.
