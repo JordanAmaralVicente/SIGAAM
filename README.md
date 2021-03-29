@@ -46,7 +46,7 @@ Além desses, há também o [diagrama de classes](https://github.com/JordanAmara
 
 Como resultado, temos o aplicativo finalizado, 100% funcional. 
 As imagens das telas podem ser encontradas nesta [pasta de imagens](https://github.com/JordanAmaralVicente/SIGAAM/tree/main/docs/images)
-Em breve, o aplicativo também será publicado na [Play Store](#)
+Em breve, o aplicativo também será publicado na [Play Store](https://play.google.com/store/apps/details?id=com.cefetcontagem.gerenciadorbairro)
 
 
 ### Conclusão
